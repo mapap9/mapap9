@@ -1,4 +1,23 @@
-## Hi there 👋
+<h1>Hi, I'm Matthew! <br/><a href="https://github.com/mapap9">Programmer</a>, <a href="https://www.linkedin.com/in/matthew-p-5880213aa/">Cybersecurity Professional</a>
+
+<h2>👨‍💻 Projects:</h2>
+
+- <b>PowerShell</b>
+  - 
+  -
+  - 
+- <b>C# (.NET Desktop Applications)</b>
+  - 
+  - 
+  - 
+- <b>Python</b>
+  - 
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/matthew-p-5880213aa/
 
 <!--
 **mapap9/mapap9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
