@@ -2,16 +2,12 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>PowerShell</b>
-  - 
-  -
-  - 
+- <b>SOC Projects</b>
+  - https://github.com/mapap9/Azure-Sentinel-Honeypot
+
 - <b>Active Directory</b>
-  - 
-  - 
-  - 
-- <b>Python</b>
-  - 
+
+- <b>PowerShell</b>
 
 <h2> 🤳 Connect with me:</h2>
 
