@@ -16,7 +16,7 @@
 
 - <b>PowerShell</b>
 
-<h2> Tools and Tech Stack </h2>
+<h2> Tools and Tech Stack:</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft Sentinel-000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft Azure-000?style=for-the-badge&logoColor=white"/>
