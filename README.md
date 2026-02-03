@@ -42,6 +42,12 @@
   <img src="https://img.shields.io/badge/YARA-000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google Workspace-000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/WireShark-000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snort-000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Suricata-000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Checkpoint-000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fortinet-000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tenable-000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nessus-000?style=for-the-badge&logoColor=white"/>
 </p>
 
 
