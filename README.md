@@ -48,6 +48,8 @@
   <img src="https://img.shields.io/badge/Fortinet-000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tenable-000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nessus-000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Entra ID-000?style=for-the-badge&logoColor=white"/>
+  
 </p>
 
 
