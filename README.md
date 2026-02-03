@@ -13,7 +13,7 @@
   - https://github.com/mapap9/Azure-Sentinel-Honeypot
 
 - <b>Active Directory</b>
-  - https://github.com/mapap9/Azure-AD-Lab-01
+  - https://github.com/mapap9/AD-Lab-01
 
 - <b>PowerShell</b>
 
