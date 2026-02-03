@@ -11,6 +11,7 @@
 
 - <b>SOC Projects</b>
   - https://github.com/mapap9/Azure-Sentinel-Honeypot
+  - https://github.com/mapap9/Threat-Detection-Yara
 
 - <b>Active Directory</b>
   - https://github.com/mapap9/AD-Lab-01
