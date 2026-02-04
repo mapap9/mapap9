@@ -1,4 +1,4 @@
-<h1>Hi, I'm Matthew! <br/><a href="https://github.com/mapap9">Programmer</a>, <a href="https://www.linkedin.com/in/matthew-p-5880213aa/">Cybersecurity Professional</a>
+<h1>Hi, I'm Matthew! <br/><a href="https://github.com/mapap9">Programmer</a>, <a href="https://www.linkedin.com/in/matthew-p-5880213aa/">Cybersecurity Professional</a>, <a href="https://github.com/mapap9">AI Enthusiast</a>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=200&section=header&text=Matthew%20P.&fontSize=40&fontColor=ffffff" />
 </p>
