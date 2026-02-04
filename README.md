@@ -48,8 +48,7 @@
   <img src="https://img.shields.io/badge/Suricata-000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Checkpoint-000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Fortinet-000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tenable-000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nessus-000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tenable Nessus-000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Entra ID-000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Splunk-000?style=for-the-badge&logoColor=white"/>
   
