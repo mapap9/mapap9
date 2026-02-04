@@ -22,6 +22,7 @@
 
 <h2> Tools and Tech Stack:</h2>
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft Sentinel-000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft Azure-000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Defender XDR-000?style=for-the-badge&logoColor=white"/>
@@ -46,6 +47,7 @@
   <img src="https://img.shields.io/badge/WireShark-000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Snort-000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Suricata-000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Checkpoint-000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Fortinet-000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tenable Nessus-000?style=for-the-badge&logoColor=white"/>
