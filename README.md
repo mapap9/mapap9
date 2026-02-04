@@ -13,6 +13,7 @@
   - https://github.com/mapap9/Azure-Sentinel-Honeypot
   - https://github.com/mapap9/Threat-Detection-Yara
   - https://github.com/mapap9/Using-MITRE-ATTCK-Navigator
+  - https://github.com/mapap9/Nessus-Vulnerability-Management
 
 - <b>Active Directory</b>
   - https://github.com/mapap9/AD-Lab-01
