@@ -9,6 +9,9 @@
 
 <h2>👨‍💻 Projects:</h2>
 
+- <b>AI + Cyber Security</b>
+  - https://github.com/mapap9/SOC-Agentic-AI
+
 - <b>SOC Projects</b>
   - https://github.com/mapap9/Azure-Sentinel-Honeypot
   - https://github.com/mapap9/Threat-Detection-Yara
