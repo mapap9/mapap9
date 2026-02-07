@@ -56,7 +56,7 @@
 <h2>About Me</h2>
 Cloud Security & SOC Engineer with hands-on experience in Python-based automation, Azure security tooling, and detection engineering. 
 
-Strong foundation in SOC workflows including log ingestion, alert triage, threat detection, and security telemetry analysis. 
+Strong foundation in SOC workflows including log ingestion, alert triage, threat detection, and security telemetry analysis.
 
 Experience working with cloud-native SIEM concepts, honeypots, vulnerability assessment tools, and detection logic, with an emphasis on practical, real-world security monitoring and response.
 
