@@ -10,18 +10,13 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>AI + Cyber Security</b>
-  - https://github.com/mapap9/SOC-Agentic-AI
+  - [AI SOC Agent](https://github.com/mapap9/SOC-Agentic-AI)
 
 - <b>SOC Projects</b>
-  - https://github.com/mapap9/Azure-Sentinel-Honeypot
-  - https://github.com/mapap9/Threat-Detection-Yara
-  - https://github.com/mapap9/Using-MITRE-ATTCK-Navigator
-  - https://github.com/mapap9/Nessus-Vulnerability-Management
+  - [Azure Honeypot Project](https://github.com/mapap9/Azure-Sentinel-Honeypot)
 
 - <b>Active Directory</b>
-  - https://github.com/mapap9/AD-Lab-01
-
-- <b>PowerShell</b>
+  - [Active Directory Lab](https://github.com/mapap9/AD-Lab-01)
 
 <h2> Tools and Tech Stack:</h2>
 <p align="center">
