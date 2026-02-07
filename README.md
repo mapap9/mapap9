@@ -7,18 +7,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;SOC+Analyst+in+Progress;Incident+Response;Threat+Detection;Certified+%7C+Hands-on+Driven" />
 </p>
 
-<h2>👨‍💻 Projects:</h2>
+<h2>Projects:</h2>
 
 - <b>AI + Cyber Security</b>
   - [AI SOC Agent](https://github.com/mapap9/AI-SOC-Agent)
 
 - <b>SOC Projects</b>
-  - [Azure Honeypot Project](https://github.com/mapap9/Azure-Sentinel-Honeypot)
+  - [Azure Honeypot Lab](https://github.com/mapap9/Azure-Sentinel-Honeypot)
 
 - <b>Active Directory</b>
   - [Active Directory Lab](https://github.com/mapap9/AD-Lab-01)
 
-<h2> Tools and Tech Stack:</h2>
+<h2>Tools and Tech Stack:</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft Sentinel-000?style=for-the-badge&logoColor=white"/>
@@ -55,7 +55,7 @@
 </p>
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2>Connect with me:</h2>
 
 [<img align="left" alt="Matthew Papadopoulos | LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />][linkedin]
 
