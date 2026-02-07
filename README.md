@@ -17,6 +17,9 @@
  
 - <b>Threat Hunt Reports</b>
   - [Crosscheck](https://github.com/mapap9/Threat-Hunt-Report-Crosscheck)
+ 
+- <b>Compliance</b>
+  - [Windows 11 STIG](https://github.com/mapap9/Windows-11-STIG)
 
 <h2>Tech Stack & Skills</h2>
 <p align="center">
