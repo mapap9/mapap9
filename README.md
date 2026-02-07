@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;SOC+Analyst+in+Progress;Incident+Response;Threat+Detection;Certified+%7C+Hands-on+Driven" />
 </p>
 
-<h2>Projects:</h2>
+<h2>Projects</h2>
 
 - <b>AI + Cyber Security</b>
   - [AI SOC Agent](https://github.com/mapap9/AI-SOC-Agent)
@@ -18,7 +18,7 @@
 - <b>Threat Hunt Reports</b>
   - [Crosscheck](https://github.com/mapap9/Threat-Hunt-Report-Crosscheck)
 
-<h2>Tools and Tech Stack:</h2>
+<h2>Tech Stack & Skills</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft Sentinel-000?style=for-the-badge&logoColor=white"/>
@@ -51,11 +51,19 @@
   <img src="https://img.shields.io/badge/Tenable Nessus-000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Entra ID-000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Splunk-000?style=for-the-badge&logoColor=white"/>
-  
 </p>
 
+<h2>About me</h2>
+Cloud Security & SOC Engineer with hands-on experience in Python-based automation, Azure security tooling, and detection engineering. 
 
-<h2>Connect with me:</h2>
+Strong foundation in SOC workflows including log ingestion, alert triage, threat detection, and security telemetry analysis. 
+
+Experience working with cloud-native SIEM concepts, honeypots, vulnerability assessment tools, and detection logic, with an emphasis on practical, real-world security monitoring and response.
+
+Comfortable working beyond initial alert triage to investigate root causes, tune detections, and document findings for escalation and improvement.
+
+
+<h2>Connect with me</h2>
 
 [<img align="left" alt="Matthew Papadopoulos | LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />][linkedin]
 
