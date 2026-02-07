@@ -12,11 +12,8 @@
 - <b>AI + Cyber Security</b>
   - [AI SOC Agent](https://github.com/mapap9/AI-SOC-Agent)
 
-- <b>SOC Projects</b>
+- <b>Honeypots</b>
   - [Azure Honeypot Lab](https://github.com/mapap9/Azure-Sentinel-Honeypot)
-
-- <b>Active Directory</b>
-  - [Active Directory Lab](https://github.com/mapap9/AD-Lab-01)
  
 - <b>Threat Hunt Reports</b>
   - [Crosscheck](https://github.com/mapap9/Threat-Hunt-Report-Crosscheck)
