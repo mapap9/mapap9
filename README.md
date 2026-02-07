@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/Splunk-000?style=for-the-badge&logoColor=white"/>
 </p>
 
-<h2>About me</h2>
+<h2>About Me</h2>
 Cloud Security & SOC Engineer with hands-on experience in Python-based automation, Azure security tooling, and detection engineering. 
 
 Strong foundation in SOC workflows including log ingestion, alert triage, threat detection, and security telemetry analysis. 
@@ -63,7 +63,7 @@ Experience working with cloud-native SIEM concepts, honeypots, vulnerability ass
 Comfortable working beyond initial alert triage to investigate root causes, tune detections, and document findings for escalation and improvement.
 
 
-<h2>Connect with me</h2>
+<h2>Contact</h2>
 
 [<img align="left" alt="Matthew Papadopoulos | LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />][linkedin]
 
