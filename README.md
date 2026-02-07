@@ -10,7 +10,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>AI + Cyber Security</b>
-  - [AI SOC Agent](https://github.com/mapap9/SOC-Agentic-AI)
+  - [AI SOC Agent](https://github.com/mapap9/AI-SOC-Agent)
 
 - <b>SOC Projects</b>
   - [Azure Honeypot Project](https://github.com/mapap9/Azure-Sentinel-Honeypot)
