@@ -17,6 +17,7 @@
  
 - <b>Threat Hunt Reports</b>
   - [Crosscheck](https://github.com/mapap9/Threat-Hunt-Report-Crosscheck)
+  - [Tor Threat Hunting Scenario](https://github.com/mapap9/Threat-Hunting-Scenario-Tor)
  
 - <b>Compliance</b>
   - [Windows 11 STIG](https://github.com/mapap9/Windows-11-STIG)
