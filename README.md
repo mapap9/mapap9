@@ -12,7 +12,7 @@
 - <b>AI + Cyber Security</b>
   - [AI SOC Agent](https://github.com/mapap9/AI-SOC-Agent)
 
-- <b>Honeypots</b>
+- <b>SOC & Honeypots</b>
   - [Azure Honeypot Lab](https://github.com/mapap9/Azure-Sentinel-Honeypot)
  
 - <b>Threat Hunt Reports</b>
