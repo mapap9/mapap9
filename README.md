@@ -13,7 +13,7 @@
   - [AI SOC Agent](https://github.com/mapap9/AI-SOC-Agent)
 
 - <b>SOC & Honeypots</b>
-  - [Azure Honeypot Lab](https://github.com/mapap9/Azure-Sentinel-Honeypot)
+  - [Sentinel Azure Honeypot Lab](https://github.com/mapap9/Azure-Sentinel-Honeypot)
  
 - <b>Threat Hunt Reports</b>
   - [Crosscheck](https://github.com/mapap9/Threat-Hunt-Report-Crosscheck)
