@@ -1,69 +1,61 @@
-<h1>Hi, I'm Matthew! <br/><a href="https://github.com/mapap9">Programmer</a>, <a href="https://www.linkedin.com/in/matthew-p-5880213aa/">Cybersecurity Professional</a>, <a href="https://github.com/mapap9">AI Enthusiast</a>
+<h1>Hi, I'm Matthew! <br/><a href="https://github.com/mapap9">Systems Engineer</a> | <a href="https://github.com/mapap9">AI Infrastructure Architect</a> | <a href="https://www.linkedin.com/in/matthew-p-5880213aa/">Low-Level Security Engineer</a></h1>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=200&section=header&text=Matthew%20P.&fontSize=40&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;SOC+Analyst+in+Progress;Incident+Response;Threat+Detection;Certified+%7C+Hands-on+Driven" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Deep+Learning+Systems;Core+PyTorch+Architectures;Compute+Efficiency+and+Quantization;Hardened+Infrastructure" />
 </p>
 
-<h2>Projects</h2>
+---
 
-- <b>AI + Cyber Security</b>
-  - [AI SOC Agent](https://github.com/mapap9/AI-SOC-Agent)
+## 🔬 Core Focus & Research Artifacts
 
-- <b>SOC & Honeypots</b>
-  - [Sentinel Azure Honeypot Lab](https://github.com/mapap9/Azure-Sentinel-Honeypot)
- 
-- <b>Threat Hunt Reports</b>
-  - [Crosscheck](https://github.com/mapap9/Threat-Hunt-Report-Crosscheck)
-  - [Tor Threat Hunting Scenario](https://github.com/mapap9/Threat-Hunting-Scenario-Tor)
- 
-- <b>Compliance</b>
-  - [Windows 11 STIG](https://github.com/mapap9/Windows-11-STIG)
+I engineer bare-metal deep learning systems, parameter-efficient fine-tuning frameworks, and hardened network infrastructure. I minimize abstraction layers to maximize memory bandwidth, execution throughput, and hardware efficiency.
 
-<h2>Tech Stack & Skills</h2>
+### 🧠 Deep Learning & AI Systems Architecture
+* **[llama-gqa-engine-from-scratch](https://github.com/mapap9/llama-gqa-engine-from-scratch)** — Clean-room, bare-metal implementation of the LLaMA-3.1 transformer block in pure PyTorch. Implements Grouped-Query Attention (GQA) with custom KV cache tensors, SwiGLU, and Rotary Position Embeddings (RoPE) to bypass third-party framework overhead.
+* **[quantflux-engine](https://github.com/mapap9/quantflux-engine)** — Low-level quantization and matrix execution framework optimized for compressing tensor footprints, reducing hardware activation memory, and accelerating math operations under strict bit constraints.
+* **[pixel-art-lora (lcah)](https://github.com/mapap9/pixel-art-lora)** — Latent Cross-Attention Adaptation Harness executing parameter-efficient fine-tuning (PEFT) across frozen 862M parameter UNet blocks using real-time streaming data infrastructures.
+* **[game-sprite-diffusion-engine](https://github.com/mapap9/game-sprite-diffusion-engine)** — Ground-up parametric 3-channel diffusion model implementing structural U-Net configurations and multi-stage joint optimization over localized image distributions.
+
+### 🛡️ Hardened Infrastructure & System Defense
+* **[AI SOC Agent](https://github.com/mapap9/AI-SOC-Agent)** — Algorithmic orchestration layer uniting large language models with telemetry pipes for automated incident classification.
+* **[Sentinel Azure Honeypot Lab](https://github.com/mapap9/Azure-Sentinel-Honeypot)** — Distributed telemetry collection array mapping real-world adversarial brute-force vectors to cloud logging infrastructures.
+* **[Threat Hunt Audits](https://github.com/mapap9/Threat-Hunt-Report-Crosscheck)** — Deep-dive behavioral analysis tracking malicious persistence mechanisms and out-of-bounds network tunneling.
+
+---
+
+## 🛠️ Tech Stack & Systems Domain
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CUDA-000?style=for-the-badge&logo=nvidia&logoColor=green"/>
+  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Microsoft Azure-000?style=for-the-badge&logo=microsoftazure&logoColor=0089D6"/>
+  <img src="https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
   <img src="https://img.shields.io/badge/Microsoft Sentinel-000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft Azure-000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Defender XDR-000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Active Directory-000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft 365-000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GrayLog-000?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CrowdStrike-black?style=for-the-badge&logo=data:image/svg+xml;base64,..."/>
-  <img src="https://img.shields.io/badge/Sophos XDR-000?style=for-the-badge&logo=data:image/svg+xml;base64,..."/>
   <img src="https://img.shields.io/badge/KQL-000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerShell-000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Palo Alto-000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cisco-000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Veeam-000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VM Ware-000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MITRE ATT&CK-000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hyper V-000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/YARA-000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google Workspace-000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WireShark-000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Snort-000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Suricata-000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Checkpoint-000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fortinet-000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tenable Nessus-000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Entra ID-000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Splunk-000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WireShark-000?style=for-the-badge&logo=wireshark&logoColor=white"/>
 </p>
 
-<h2>Contact</h2>
+---
 
-[<img align="left" alt="Matthew Papadopoulos | LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />][linkedin]
+## 📬 Connectivity
+
+[<img align="left" alt="Matthew P | LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/matthew-p-5880213aa/
+
+<br/><br/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=39ff14&height=120"/>
 </p>
-
