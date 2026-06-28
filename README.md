@@ -1,4 +1,4 @@
-<h1>Hi, I'm Matthew! <br/><a href="https://github.com/mapap9">Systems Engineer</a> | <a href="https://github.com/mapap9">AI Infrastructure Architect</a> | <a href="https://www.linkedin.com/in/matthew-p-5880213aa/">Low-Level Security Engineer</a></h1>
+<h1>Hi, I'm Matthew! <br/><a href="https://github.com/mapap9">Systems Engineer</a> | <a href="https://github.com/mapap9">AI Infrastructure Architect</a> | <a href="https://www.linkedin.com/in/matthew-p-5880213aa/">Security Engineer</a></h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=200&section=header&text=Matthew%20P.&fontSize=40&fontColor=ffffff" />
@@ -18,7 +18,8 @@ I engineer bare-metal deep learning systems, parameter-efficient fine-tuning fra
 * **[llama-gqa-engine-from-scratch](https://github.com/mapap9/llama-gqa-engine-from-scratch)** — Clean-room, bare-metal implementation of the LLaMA-3.1 transformer block in pure PyTorch. Implements Grouped-Query Attention (GQA) with custom KV cache tensors, SwiGLU, and Rotary Position Embeddings (RoPE) to bypass third-party framework overhead.
 * **[quantflux-engine](https://github.com/mapap9/quantflux-engine)** — Low-level quantization and matrix execution framework optimized for compressing tensor footprints, reducing hardware activation memory, and accelerating math operations under strict bit constraints.
 * **[pixel-art-lora (lcah)](https://github.com/mapap9/pixel-art-lora)** — Latent Cross-Attention Adaptation Harness executing parameter-efficient fine-tuning (PEFT) across frozen 862M parameter UNet blocks using real-time streaming data infrastructures.
-* **[game-sprite-diffusion-engine](https://github.com/mapap9/game-sprite-diffusion-engine)** — Ground-up parametric 3-channel diffusion model implementing structural U-Net configurations and multi-stage joint optimization over localized image distributions.
+* **[game-sprite-diffusion-engine](https://github.com/mapap9/game-sprite-diffusion-engine)** — A parametric 3-channel diffusion model implementing structural U-Net configurations and multi-stage joint optimization over localized image distributions.
+* **[digit-diffusion-engine](https://github.com/mapap9/digit-diffusion-engine)** — A raw PyTorch implementation of a class-conditioned Parametric Number Diffusion Engine trained using the MNIST dataset, which is a dataset usually utilized for vision.
 
 ### 🛡️ Hardened Infrastructure & System Defense
 * **[AI SOC Agent](https://github.com/mapap9/AI-SOC-Agent)** — Algorithmic orchestration layer uniting large language models with telemetry pipes for automated incident classification.
